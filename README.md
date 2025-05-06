@@ -27,11 +27,6 @@ I'm a 21-year-old Electrical and Electronics Engineering student at **Fatih Sult
 
 ---
 
-### ✨ Let's Connect
-- [LinkedIn](https://linkedin.com/in/yourprofile) *(replace with your link)*
-- [Twitter](https://twitter.com/yourhandle) *(optional)*
-- [Portfolio Website](https://yourwebsite.com) *(if you have one)*
 
----
 
 Thanks for visiting my profile! 🚀 Feel free to check out my repositories and follow my SwiftUI journey.
