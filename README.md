@@ -42,7 +42,7 @@ I'm a 21-year-old Electrical and Electronics Engineering student at **Fatih Sult
 
 
 ### My İnformations 
-📩 Contact with me 
+
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bekir-emre-doğramacı-67463334a/)
