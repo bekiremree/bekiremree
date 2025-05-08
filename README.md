@@ -5,15 +5,26 @@ I'm a 21-year-old Electrical and Electronics Engineering student at **Fatih Sult
 ---
 ## 🚀 Most Used Languages
 
-| Language     | Usage                        |
-|--------------|------------------------------|
-| 🟦 SwiftUI     | ████████████████████░░░░░░░░ 75% |
-| 🟣 Objective-C | ███████░░░░░░░░░░░░░░░░░░░░░ 25% |
+<table>
+  <tr>
+    <td><strong>🟦 SwiftUI</strong></td>
+    <td>
+      <div style="background-color: #FA7343; width: 75%; height: 20px; border-radius: 5px;"></div>
+    </td>
+    <td><strong>75%</strong></td>
+  </tr>
+  <tr>
+    <td><strong>🟣 Objective-C</strong></td>
+    <td>
+      <div style="background-color: #000000; width: 25%; height: 20px; border-radius: 5px;"></div>
+    </td>
+    <td><strong>25%</strong></td>
+  </tr>
+</table>
 
-## 🛠️ Tools
-![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-000000?style=for-the-badge&logo=apple&logoColor=white)
-
+## 🛠️ Tools  
+<img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Objective--C-000000?style=for-the-badge&logo=apple&logoColor=white" />
 
 ### 🚀 What I'm Working On
 - Developing iOS apps using **SwiftUI**
