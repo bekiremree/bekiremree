@@ -1,6 +1,6 @@
 ### Hi there, I'm Bekir Emre Doğramacı 👋
 
-I'm a 21-year-old Electrical and Electronics Engineering student at **Fatih Sultan Mehmet Vakıf University**. I'm deeply interested in **iOS mobile development** and currently building personal projects using **Swift** and **SwiftUI**.
+I'm a 22-year-old Electrical and Electronics Engineering student at **Fatih Sultan Mehmet Vakıf University**. I'm deeply interested in **iOS mobile development** and currently building personal projects using **Swift** and **SwiftUI**.
 
 ---
 ## 🚀 Most Used Languages
